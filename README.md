@@ -1,7 +1,5 @@
 # React Boilerplate
 
-https://scottsauber.com/2017/06/10/prettier-format-on-save-never-worry-about-formatting-javascript-again/
-
 ## Introduction
 
 This boilerplate contains all you need to start your next React.js project and with [AWS Amplify](https://aws.amazon.com/amplify/) for authentication and deployment. Simple, robust, well-organized, all you need to do is clone, install and you're ready to start.
@@ -43,7 +41,7 @@ This boilerplate features all the latest tools and practices in the industry.
 ## Code Editor configuration
 
 - ESlint
-- Prettier (enable formatOnSave)
+- Prettier [enable formatOnSave](https://scottsauber.com/2017/06/10/prettier-format-on-save-never-worry-about-formatting-javascript-again/)
 
 ## License
 
