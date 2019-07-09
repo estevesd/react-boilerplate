@@ -7,6 +7,10 @@ const reset = css`
     -webkit-font-smoothing: antialiased;
   }
 
+  body {
+    font-family: sans-serif;
+  }
+
   * {
     user-select: none;
     -webkit-tap-highlight-color: rgba(255, 255, 255, 0);
